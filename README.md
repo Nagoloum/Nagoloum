@@ -168,20 +168,6 @@ Je suis motivé, curieux et prêt à contribuer à des projets concrets tout en 
 
 L’objectif est de créer une plateforme complète permettant à plusieurs vendeurs de proposer leurs produits, de gérer leurs boutiques, leurs commandes, leurs clients, leurs promotions et leurs ventes depuis un tableau de bord professionnel.
 
-**Fonctionnalités principales :**
-
-- Marketplace multi-vendeurs
-- Gestion des boutiques vendeurs
-- Catalogue de produits
-- Panier d’achat
-- Gestion des commandes
-- Paiements
-- Promotions, coupons et ventes flash
-- Tableau de bord vendeur
-- Espace client
-- Interface administrateur
-- Interface moderne et responsive
-
 **Technologies utilisées :**
 
 <p>
